@@ -2,7 +2,7 @@
 
 ## My Name
 
-harsh
+Harsh Pratap Singh
 
 ## What I Learned in Foundation Month
 
@@ -25,3 +25,11 @@ Programming means:
 Java is:
 
 In this track, I will learn:
+
+first git download and install
+then make an account on github
+then fork the git repositery to ours system
+then make it to desktop
+then open it on ide antigravity
+then change something on it
+and final push the code on github using git commands (git add .   , git commit -m "comment", git push)
